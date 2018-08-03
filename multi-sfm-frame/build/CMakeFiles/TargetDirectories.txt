@@ -1,0 +1,4 @@
+/home/zn/multi-sfm-frame/build/CMakeFiles/edit_cache.dir
+/home/zn/multi-sfm-frame/build/CMakeFiles/rebuild_cache.dir
+/home/zn/multi-sfm-frame/build/CMakeFiles/test.dir
+/home/zn/multi-sfm-frame/build/CMakeFiles/test-sfm.dir
